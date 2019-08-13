@@ -9,3 +9,7 @@ func1(){
 func2(){
   test here 2
 }
+
+func3(){
+  test here func3
+}
