@@ -5,3 +5,7 @@ c
 func1(){
   test here
 }
+
+func2(){
+  test here 2
+}
